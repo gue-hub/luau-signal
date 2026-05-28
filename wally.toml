@@ -1,0 +1,11 @@
+[package]
+name = "rumin/signal"
+version = "1.0.0"
+license = "MIT"
+authors = ["rumin"]
+description = "Lightweight signal/event class for Luau"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = ["src/**", "default.project.json", "wally.toml", "README.md", "LICENSE"]
+
+[dependencies]
